@@ -63,7 +63,7 @@ export default function LiveLeaderboard() {
             </div>
             <div>
               <h1 className="text-xl font-bold text-content-primary tracking-tight">
-                Sparzo '26: Live Leaderboard
+                Genora'26: Live Leaderboard
               </h1>
               <div className="flex items-center gap-2 mt-0.5">
                 <span className="flex items-center gap-1 text-[11px] font-mono text-status-pass font-semibold">
