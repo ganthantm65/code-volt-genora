@@ -7,7 +7,7 @@ import LandingPage from './pages/LandingPage';
 
 // Team Views
 import TeamLogin from './pages/team/TeamLogin';
-import TeamRegister from './pages/team/TeamRegsiter'; // Fixed typo
+import TeamRegister from './pages/team/TeamRegister'; // Fixed typo
 import ContestList from './pages/team/ContestList';
 import ContestLobby from './pages/team/ContestLobby';
 import ChallengeWorkspace from './pages/team/ChallengeWorkspace';
